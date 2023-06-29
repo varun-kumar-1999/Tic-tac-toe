@@ -92,8 +92,6 @@ if(gameover() == 2)
         cout<<"\nDraw......\n";
      else cout<<"\n\nPlayer "<<turn<<" Won!!!!!!\n";
         showb();
+    return 0;
     }
    
-
-
-
